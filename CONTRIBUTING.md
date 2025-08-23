@@ -7,7 +7,7 @@ Thanks for helping improve Folder Nuker! PRs and issues are welcome as time allo
 ## Getting started (Windows)
 1. Fork & clone the repo
 2. Create a venv and `pip install -r requirements.txt`
-3. Run `python folder_nuker.py`
+3. Run `python StabbleDiffusionPromptManager.py`
 
 
 ## Style
@@ -16,4 +16,5 @@ Thanks for helping improve Folder Nuker! PRs and issues are welcome as time allo
 
 
 ## Commit messages
+
 - Use clear, descriptive messages (e.g., `ui: add dry-run checkbox`).
