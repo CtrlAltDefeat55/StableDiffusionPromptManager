@@ -39,7 +39,7 @@ See **[requirements.txt](./requirements.txt)**.
 py -3 -m venv venv
 .\venv\Scripts\activate
 pip install -r requirements.txt
-python "Stable DiffusionPromptFileManager.py"
+python "StableDiffusionPromptManager.py"
 ```
 > Rename to `stable_diffusion_prompt_manager.py` and run `python stable_diffusion_prompt_manager.py` if you wish for better readability.
 
@@ -79,12 +79,12 @@ StableDiffusionPromptManager/
 ├─ INSTALL-Windows.md
 ├─ README.md
 ├─ requirements.txt
-└─ StableDiffusionPromptFileManager.py   # main script
+└─ StableDiffusionPromptManager.py   # main script
 ```
 
 ## 🔗 Quick Links
 
-- ▶️ **Run it:** [`StableDiffusionPromptFileManager.py`](./StableDiffusionPromptFileManager.py)
+- ▶️ **Run it:** [`StableDiffusionPromptManager.py`](./StableDiffusionPromptManager.py)
 - 📦 **Install (Windows):** [`INSTALL-Windows.md`](./INSTALL-Windows.md)
 - 🧩 **Dependencies:** [`requirements.txt`](./requirements.txt)
 
@@ -92,7 +92,7 @@ StableDiffusionPromptManager/
 
 ```powershell
 pip install pyinstaller
-pyinstaller --name StableDiffusionPromptManager --onefile --windowed "StableDiffusionPromptFileManager.py"
+pyinstaller --name StableDiffusionPromptManager --onefile --windowed "StableDiffusionPromptManager.py"
 ```
 
 ## 🛠️ Troubleshooting
