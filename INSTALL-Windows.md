@@ -43,12 +43,12 @@ pip install -r requirements.txt
 
 ## 5) Run the app
 
-If you keep the original filename with spaces:
+If you keep the original filename:
 ```powershell
-python "Stable Diffusion Prompt File Manager.py"
+python "StableDiffusionPromptFileManager.py"
 ```
 
-If you rename it (recommended) to `stable_diffusion_prompt_manager.py`:
+If you rename it to `stable_diffusion_prompt_manager.py`:
 ```powershell
 python stable_diffusion_prompt_manager.py
 ```
@@ -59,7 +59,7 @@ A window titled **“Stable Diffusion Prompt Manager”** will open.
 
 ```powershell
 pip install pyinstaller
-pyinstaller --name StableDiffusionPromptManager --onefile --windowed "Stable Diffusion Prompt File Manager.py"
+pyinstaller --name StableDiffusionPromptManager --onefile --windowed "StableDiffusionPromptFileManager.py"
 # EXE appears in .\dist\StableDiffusionPromptManager.exe
 ```
 
