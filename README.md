@@ -6,9 +6,9 @@ A lightweight **Tkinter** desktop app to build, batch, and manage **Stable Diffu
 
 ## 📸 Screenshots
 <!-- Replace these placeholders with real screenshots from your system -->
-<img alt="Main UI" src="./assets/sdpm-ui.png" width="800">
-<br/>
-<img alt="Load Templates (Low)" src="./assets/sdpm-templates-low.png" width="800">
+<img width="1209" height="1125" alt="Main_UI" src="https://github.com/user-attachments/assets/aac5e1bd-7502-494f-850b-f1cbb72230a9" />
+<img width="1071" height="763" alt="Templates_UI" src="https://github.com/user-attachments/assets/6da26309-c5c6-4dc8-bc5f-1d8451fad06a" />
+
 
 ## ✨ Features
 
@@ -39,9 +39,9 @@ See **[requirements.txt](./requirements.txt)**.
 py -3 -m venv venv
 .\venv\Scripts\activate
 pip install -r requirements.txt
-python "Stable Diffusion Prompt File Manager.py"
+python "Stable DiffusionPromptFileManager.py"
 ```
-> Prefer no spaces? Rename to `stable_diffusion_prompt_manager.py` and run `python stable_diffusion_prompt_manager.py`.
+> Rename to `stable_diffusion_prompt_manager.py` and run `python stable_diffusion_prompt_manager.py` if you wish for better readability.
 
 More detail: **[INSTALL-Windows.md](./INSTALL-Windows.md)**
 
@@ -79,7 +79,7 @@ StableDiffusionPromptManager/
 ├─ INSTALL-Windows.md
 ├─ README.md
 ├─ requirements.txt
-└─ Stable Diffusion Prompt File Manager.py   # main script (rename if you like)
+└─ StableDiffusionPromptFileManager.py   # main script
 ```
 
 ## 🔗 Quick Links
@@ -92,7 +92,7 @@ StableDiffusionPromptManager/
 
 ```powershell
 pip install pyinstaller
-pyinstaller --name StableDiffusionPromptManager --onefile --windowed "Stable Diffusion Prompt File Manager.py"
+pyinstaller --name StableDiffusionPromptManager --onefile --windowed "StableDiffusionPromptFileManager.py"
 ```
 
 ## 🛠️ Troubleshooting
