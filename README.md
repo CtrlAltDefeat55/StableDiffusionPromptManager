@@ -84,7 +84,7 @@ StableDiffusionPromptManager/
 
 ## 🔗 Quick Links
 
-- ▶️ **Run it:** [`Stable Diffusion Prompt File Manager.py`](./Stable%20Diffusion%20Prompt%20File%20Manager.py)
+- ▶️ **Run it:** [`StableDiffusionPromptFileManager.py`](./StableDiffusionPromptFileManager.py)
 - 📦 **Install (Windows):** [`INSTALL-Windows.md`](./INSTALL-Windows.md)
 - 🧩 **Dependencies:** [`requirements.txt`](./requirements.txt)
 
