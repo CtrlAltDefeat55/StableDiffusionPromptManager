@@ -1,7 +1,7 @@
 # Contributing
 
 
-Thanks for helping improve Folder Nuker! PRs and issues are welcome as time allows.
+Thanks for helping improve this prompt manager project! PRs and issues are welcome as time allows.
 
 
 ## Getting started (Windows)
@@ -18,3 +18,4 @@ Thanks for helping improve Folder Nuker! PRs and issues are welcome as time allo
 ## Commit messages
 
 - Use clear, descriptive messages (e.g., `ui: add dry-run checkbox`).
+
